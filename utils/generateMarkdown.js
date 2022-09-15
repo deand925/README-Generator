@@ -98,7 +98,7 @@ function generateMarkdown(data) {
   
   ## Images
 
-  <img src="images/Screen Shot 2022-08-24 at 9.26.55 AM.png">
+  <img src="images/Screen Shot 2022-09-14 at 7.18.50 PM.png">
 
   ## Tests
 
