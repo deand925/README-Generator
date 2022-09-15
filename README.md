@@ -1,4 +1,4 @@
-# sdklkls 
+# README Generator
 
   ## Table of Contents
   
@@ -12,26 +12,27 @@
   
   ## Description
  
-  sdksdkjsd
+  The README generator is an app that uses inquirer and node to prompt the user with questions to create there own custom REAME.
 
   ## Installation
   
-  sdkkjsd
+  Please use inquirer 8.2.4
 
   ## Usage
   
-  dsmksmkdkmds
+  To use enter node inex into the terminal windo after making sure you are in the correct file. You will be prompted with questions. Please complete all the questions to create your README doc.
   
   
   ## License
   
   
 
+
   ---
 
   ## Contributing
 
-  sdkkjsdk
+ DeanDunivan
   
   ## Images
 
@@ -39,7 +40,7 @@
 
   ## Tests
 
-  sdkksldkl
+  [Test Video](https://drive.google.com/file/d/1GHfIIbwxVtgdB11w-nAxzmJ5Ttz_YJW9/view)
 
   ## Questions
 
@@ -47,5 +48,5 @@
 
   [Email: sdkmdksklds](mailto:sdkmdksklds)
 
-  [GitHub](https://github.com/skkjksjdjk)
+  [GitHub](https://github.com/deand925/README-Generator.git)
 

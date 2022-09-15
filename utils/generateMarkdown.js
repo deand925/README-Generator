@@ -110,7 +110,7 @@ function generateMarkdown(data) {
 
   [Email: ${data.email}](mailto:${data.email})
 
-  [GitHub](https://github.com/${data.github})
+  [GitHub](https://github.com/deand925/README-Generator.git)
 
 `;
 }
