@@ -86,7 +86,7 @@ function generateMarkdown(data) {
   ${data.usage}
   
   
-  ${renderLicenseSection(data.license)}
+  ## License
   
   ${renerLicense(data.license)}
 
@@ -116,5 +116,3 @@ function generateMarkdown(data) {
 }
 
 module.exports = generateMarkdown;
-
-
