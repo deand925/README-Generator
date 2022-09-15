@@ -1,4 +1,4 @@
-# Deans README>md [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# Deans Readme [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
   ## Table of Contents
   
@@ -16,16 +16,16 @@
 
   ## Installation
   
-  step 1 step 2 step 3
+  These are my steps
 
   ## Usage
   
-  These are my instructions
+  This is my example
   
   
   ## License
   
-  [apache license](https://opensource.org/licenses/Apache-2.0)
+  [BSD 3-Clause license](https://opensource.org/licenses/BSD-3-Clause)
 
   ---
 
@@ -35,11 +35,11 @@
   
   ## Images
 
-  <img src="images/Screen Shot 2022-08-24 at 9.26.55 AM.png">
+  <img src="images/Screen Shot 2022-09-14 at 7.18.50 PM.png">
 
   ## Tests
 
-  These are my instructions
+  This is my test instructions
 
   ## Questions
 
